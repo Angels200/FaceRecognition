@@ -1,0 +1,1 @@
+python recognize_faces_image.py --encodings bencodings.pickle 	--image $1
